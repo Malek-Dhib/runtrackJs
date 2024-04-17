@@ -1,0 +1,13 @@
+body {
+    min-height: 4096px;
+    margin: 0;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: blue; /* Couleur de base du footer */
+    transition: background-color 0.3s ease; /* Transition de couleur pour une animation fluide */
+}
